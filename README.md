@@ -415,14 +415,14 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=CorgiOnNeptune&title_color=61dafb&text_color=f5f5f5&bg_color=20232a&icon_color=61dafb&langs_count=14&hide=yacc,cmake&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=CorgiOnNeptune&title_color=61dafb&text_color=f5f5f5&bg_color=20232a&icon_color=61dafb&langs_count=14&hide=yacc,cmake&show_icons=true&locale=en&layout=compact&count_private=true"
     width="35%"
     alt="CorgiOnNeptune"
   />
   &nbsp;
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=CorgiOnNeptune&title_color=61dafb&text_color=f5f5f5&bg_color=20232a&icon_color=61dafb&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=CorgiOnNeptune&title_color=61dafb&text_color=f5f5f5&bg_color=20232a&icon_color=61dafb&show_icons=true&locale=en&count_private=true"
     width="39%"
     alt="CorgiOnNeptune"
   />
@@ -440,7 +440,7 @@
     <img
       width="300"
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=CorgiOnNeptune&repo=SpotiFind&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CorgiOnNeptune&repo=spotifind&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
     />
   </a>
   &nbsp; 
