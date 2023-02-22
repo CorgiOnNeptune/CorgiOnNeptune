@@ -104,7 +104,7 @@
   </tr>
 
   <tr>
-    <td><strong>Frameworks & Libraries</strong></td>
+    <td rowspan="3"><strong>Frameworks & Libraries</strong></td>
     <td align="center" height="80" width="80">
       <code
         ><img
@@ -163,39 +163,6 @@
     <td align="center" height="80" width="80">
       <code
         ><img
-          alt="Sass"
-          title="Sass"
-          height="36"
-          width="36"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-      /></code>
-      <br /><em>Sass</em>
-    </td>
-    <td align="center" height="80" width="80">
-      <code
-        ><img
-          alt="Bootstrap"
-          title="Bootstrap"
-          height="36"
-          width="36"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-      /></code>
-      <br /><em>Bootstrap</em>
-    </td>
-    <td align="center" height="80" width="80">
-      <code
-        ><img
-          alt="Tailwind"
-          title="Tailwind"
-          height="36"
-          width="36"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-      /></code>
-      <br /><em>Tailwind</em>
-    </td>
-    <td align="center" height="80" width="80">
-      <code
-        ><img
           alt="Jquery"
           title="Jquery"
           height="36"
@@ -226,6 +193,46 @@
       /></code>
       <br /><em>Angular</em>
     </td> --->
+  </tr>
+
+  <!--- Empty row for table striping --->
+  <tr></tr>
+
+  <tr>
+    <td align="center" height="80" width="80">
+      <code
+        ><img
+          alt="Sass"
+          title="Sass"
+          height="36"
+          width="36"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+      /></code>
+      <br /><em>Sass</em>
+    </td>
+    <td align="center" height="80" width="80">
+      <code
+        ><img
+          alt="Bootstrap"
+          title="Bootstrap"
+          height="36"
+          width="36"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+      /></code>
+      <br /><em>Bootstrap</em>
+    </td>
+    <td align="center" height="80" width="80">
+      <code
+        ><img
+          alt="Tailwind"
+          title="Tailwind"
+          height="36"
+          width="36"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+      /></code>
+      <br /><em>Tailwind</em>
+    </td>
+    <td colspan="4"></td>
   </tr>
 
   <tr>
@@ -263,7 +270,7 @@
       /></code>
       <br /><em>Linux</em>
     </td>
-    <td colspan="7"></td>
+    <td colspan="4"></td>
   </tr>
 
   <tr>
@@ -334,7 +341,7 @@
       /></code>
       <br /><em>RSpec</em>
     </td>
-    <td colspan="4"></td>
+    <td colspan="1"></td>
   </tr>
 
   <tr>
@@ -394,7 +401,7 @@
       /></code>
       <br /><em>Figma</em>
     </td>
-    <td colspan="5"></td>
+    <td colspan="2"></td>
   </tr>
 
 </table>
