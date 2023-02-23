@@ -29,73 +29,73 @@
 
 <hr>
 
-<h2 align="center">:computer: Tech & Tools :computer:</h2>
+<h2 align="center">:desktop_computer: Tech & Tools :desktop_computer:</h2>
 <br />
 <table>
   <tr>
     <td><strong>Languages</strong></td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Javascript"
           title="Javascript"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
       /></code>
       <br /><em>Javascript</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="HTML"
           title="HTML"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
       /></code>
       <br /><em>HTML</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="CSS"
           title="CSS"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
       /></code>
       <br /><em>CSS</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Typescript"
           title="Typescript"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
       /></code>
       <br /><em>Typescript</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Ruby"
           title="Ruby"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
       /></code>
       <br /><em>Ruby</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="SQL"
           title="SQL"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png"
       /></code>
       <br /><em>SQL</em>
@@ -105,90 +105,90 @@
 
   <tr>
     <td rowspan="3"><strong>Frameworks & Libraries</strong></td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Node JS"
           title="Node JS"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       /></code>
       <br /><em>NodeJS</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="React"
           title="React"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       /></code>
       <br /><em>React</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Next JS"
           title="Next JS"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
       /></code>
       <br /><em>NextJS</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Express"
           title="Express"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
       /></code>
       <br /><em>Express</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Rails"
           title="Rails"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"
       /></code>
       <br /><em>Rails</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Jquery"
           title="Jquery"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
       /></code>
       <br /><em>jQuery</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="EJS"
           title="EJS"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg"
       /></code>
       <br /><em>EJS</em>
     </td>
-    <!--- <td align="center" height="80" width="80">
+    <!--- <td align="center" height="100" width="100">
       <code
         ><img
           alt="Angular"
           title="Angular"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
       /></code>
       <br /><em>Angular</em>
@@ -199,35 +199,35 @@
   <tr></tr>
 
   <tr>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Sass"
           title="Sass"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
       /></code>
       <br /><em>Sass</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Bootstrap"
           title="Bootstrap"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
       /></code>
       <br /><em>Bootstrap</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Tailwind"
           title="Tailwind"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
       /></code>
       <br /><em>Tailwind</em>
@@ -237,35 +237,35 @@
 
   <tr>
     <td><strong>Systems & Databases</strong></td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Git"
           title="Git"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
       /></code>
       <br /><em>Git</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="PostgreSQL"
           title="PostgreSQL"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
       /></code>
       <br /><em>PostgreSQL</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Linux"
           title="Linux"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
       /></code>
       <br /><em>Linux</em>
@@ -275,68 +275,68 @@
 
   <tr>
     <td><strong>Testing</strong></td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Cypress"
           title="Cypress"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
       /></code>
       <br /><em>Cypress</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Jest"
           title="Jest"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
       /></code>
       <br /><em>Jest</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Storybook"
           title="Storybook"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"
       /></code>
       <br /><em>Storybook</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Mocha"
           title="Mocha"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"
       /></code>
       <br /><em>Mocha</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Chai"
           title="Chai"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://www.chaijs.com/img/chai-logo-small.png"
       /></code>
       <br /><em>Chai</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="RSpec"
           title="RSpec"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg"
       /></code>
       <br /><em>RSpec</em>
@@ -346,57 +346,57 @@
 
   <tr>
     <td><strong>Visual Design</strong></td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Photoshop"
           title="Photoshop"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
       /></code>
       <br /><em>Photoshop</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="After Effects"
           title="After Effects"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
       /></code>
       <br /><em>Adobe AE</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Premiere Pro"
           title="Premiere Pro"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
       /></code>
       <br /><em>Premiere</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Illustrator"
           title="Illustrator"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
       /></code>
       <br /><em>Illustrator</em>
     </td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="100" width="100">
       <code
         ><img
           alt="Figma"
           title="Figma"
-          height="36"
-          width="36"
+          height="42"
+          width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
       /></code>
       <br /><em>Figma</em>
@@ -432,7 +432,7 @@
 <br />
 <hr>
 
-<h2 align="center">:juggling_person: Current Projects :juggling_person:</h2>
+<h2 align="center">:construction: Current Projects :construction:</h2>
 <br />
 
 <p align="center">
