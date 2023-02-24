@@ -413,19 +413,23 @@
 <br />
 
 <p align="center">
-  <img
+  <a href="#">
+    <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=CorgiOnNeptune&title_color=61dafb&text_color=f5f5f5&bg_color=20232a&icon_color=61dafb&langs_count=14&hide=yacc,cmake&show_icons=true&locale=en&layout=compact&count_private=true"
     width="375"
     alt="CorgiOnNeptune"
-  />
+    />
+  </a>
   &nbsp;
-  <img
+  <a href="#">
+    <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=CorgiOnNeptune&title_color=61dafb&text_color=f5f5f5&bg_color=20232a&icon_color=61dafb&show_icons=true&locale=en&count_private=true"
     width="420"
     alt="CorgiOnNeptune"
-  />
+    />
+  </a>
 
 </p>
 
