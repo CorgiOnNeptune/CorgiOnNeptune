@@ -585,7 +585,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   </tr>
 
   <tr>
-    <td><strong>📚 Learning 📚</strong></td>
+    <td><strong>Learning 📚</strong></td>
     <td align="center" height="75" width="75">
       <code
         ><img
@@ -659,7 +659,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 <!-- <br />
 <hr> -->
 
-<h2 align="center">:construction: Current Projects :construction:</h2>
+<h2 align="center">Projects</h2>
 <br />
 
 <p align="center">
