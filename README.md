@@ -1,11 +1,18 @@
 <h1 align="center">Justin Bennett</h1>
-<h2 align="center">Full-Stack Web Developer</h2>
-<!--- <h3 align="center">Specializing in...</h3> --->
+<h2 align="center">Full-Stack Developer</h2>
 
+<br />
+Hi! My name is Justin, I am a full-stack developer with a focus in web development, but some experience in broader software development such as creating Windows services and native Electron apps. I'm continually expanding my skillset and am most engaged when I get to learn new things and grow my knowledge base. My professional experience includes helping develop custom solutions for clients in the Oil & Gas industry as well as in-house software solutions for company management and accounting.
+
+I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly seeking to learn new things.
 <br />
 
 - :eyes: I’m interested in &nbsp; &nbsp; &nbsp; &nbsp; ... Music, Guitar, Video Games & Esports
-- :brain: I’m currently learning ... Typescript & Angular
+- :brain: I’m currently learning and experimenting with...
+  - <i>Angular</i>
+  - <i>Docker</i>
+  - <i>NGINX</i>
+  - <i>Python</i>
 - :arrow_down: How to reach me :arrow_down:
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp;
@@ -29,67 +36,42 @@
 
 <hr>
 
-<h2 align="center">:desktop_computer: Tech & Tools :desktop_computer:</h2>
+<h2 align="center">:desktop_computer: Tech & Tools Experience :desktop_computer:</h2>
 <br />
 <table>
   <tr>
     <td><strong>Languages</strong></td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Javascript"
           title="Javascript"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          src="https://cdn.simpleicons.org/javascript"
       /></code>
-      <br /><em>Javascript</em>
     </td>
-    <td align="center" height="100" width="100">
-      <code
-        ><img
-          alt="HTML"
-          title="HTML"
-          height="42"
-          width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      /></code>
-      <br /><em>HTML</em>
-    </td>
-    <td align="center" height="100" width="100">
-      <code
-        ><img
-          alt="CSS"
-          title="CSS"
-          height="42"
-          width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      /></code>
-      <br /><em>CSS</em>
-    </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Typescript"
           title="Typescript"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          src="https://cdn.simpleicons.org/typescript"
       /></code>
-      <br /><em>Typescript</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
-          alt="Ruby"
-          title="Ruby"
+          alt="C#"
+          title="C#"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
       /></code>
-      <br /><em>Ruby</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="SQL"
@@ -98,14 +80,33 @@
           width="42"
           src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png"
       /></code>
-      <br /><em>SQL</em>
     </td>
-    <td colspan="4"></td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Ruby"
+          title="Ruby"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/ruby"
+      /></code>
+    </td>
+    <!-- <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Python"
+          title="Python"
+          height="42"
+          width="42"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      /></code>
+    </td> -->
+    <td colspan="10"></td>
   </tr>
 
   <tr>
-    <td rowspan="3"><strong>Frameworks & Libraries</strong></td>
-    <td align="center" height="100" width="100">
+    <td><strong>Frameworks & Libraries</strong></td>
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Node JS"
@@ -114,20 +115,18 @@
           width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       /></code>
-      <br /><em>NodeJS</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="React"
           title="React"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+          src="https://cdn.simpleicons.org/react"
       /></code>
-      <br /><em>React</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Next JS"
@@ -136,228 +135,413 @@
           width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
       /></code>
-      <br /><em>NextJS</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
-          alt="Express"
-          title="Express"
+          alt="Electron"
+          title="Electron"
           height="42"
           width="42"
-          src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
+          src="https://cdn.simpleicons.org/electron"
       /></code>
-      <br /><em>Express</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
-          alt="Rails"
-          title="Rails"
+          alt="ASP .NET (WebForms)"
+          title="ASP .NET (WebForms)"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"
+          src="https://cdn.simpleicons.org/dotnet"
       /></code>
-      <br /><em>Rails</em>
     </td>
-    <td align="center" height="100" width="100">
+    <!-- <td align="center" height="50" width="50">
       <code
         ><img
-          alt="Jquery"
-          title="Jquery"
+          alt="Angular JS"
+          title="Angular JS"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+          src="https://cdn.simpleicons.org/angular/c4002b"
       /></code>
-      <br /><em>jQuery</em>
-    </td>
-    <td align="center" height="100" width="100">
+    </td> -->
+    <td align="center" height="50" width="50">
       <code
         ><img
-          alt="EJS"
-          title="EJS"
+          alt="KnockoutJS"
+          title="KnockoutJS"
           height="42"
           width="42"
-          src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knockout/knockout-plain-wordmark.svg"
       /></code>
-      <br /><em>EJS</em>
     </td>
-    <!--- <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
-          alt="Angular"
-          title="Angular"
+          alt="Express JS"
+          title="Express JS"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+          src="https://cdn.simpleicons.org/express"
       /></code>
-      <br /><em>Angular</em>
-    </td> --->
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Ruby on Rails"
+          title="Ruby on Rails"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/rubyonrails"
+      /></code>
+    </td>
+    <td colspan="10"></td>
   </tr>
 
-  <!--- Empty row for table striping --->
-  <tr></tr>
-
   <tr>
-    <td align="center" height="100" width="100">
+    <td><strong>Front-End</strong></td>
+    <td align="center" height="50" width="50">
       <code
         ><img
-          alt="Sass"
-          title="Sass"
+          alt="HTML"
+          title="HTML"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+          src="https://cdn.simpleicons.org/html5"
       /></code>
-      <br /><em>Sass</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
-          alt="Bootstrap"
-          title="Bootstrap"
+          alt="CSS"
+          title="CSS"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+          src="https://cdn.simpleicons.org/css"
       /></code>
-      <br /><em>Bootstrap</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Tailwind"
           title="Tailwind"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+          src="https://cdn.simpleicons.org/tailwindcss"
       /></code>
-      <br /><em>Tailwind</em>
     </td>
-    <td colspan="4"></td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="jQuery"
+          title="jQuery"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/jquery"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="shadcn/ui"
+          title="shadcn/ui"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/shadcnui"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Bootstrap"
+          title="Bootstrap"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/bootstrap"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="PostCSS"
+          title="PostCSS"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/postcss"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="SCSS Styling"
+          title="SCSS Styling"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/sass"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Handlebars.js"
+          title="Handlebars.js"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/handlebars.js"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="EJS"
+          title="EJS"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/ejs"
+      /></code>
+    </td>
+    <td colspan="10"></td>
   </tr>
 
   <tr>
     <td><strong>Systems & Databases</strong></td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Git"
           title="Git"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          src="https://cdn.simpleicons.org/git"
       /></code>
-      <br /><em>Git</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="MySQL"
+          title="MySQL"
+          height="42"
+          width="42"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Redis"
+          title="Redis"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/redis"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Docker"
+          title="Docker"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/docker"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="PostgreSQL"
           title="PostgreSQL"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
       /></code>
-      <br /><em>PostgreSQL</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Microsoft SQL Server"
+          title="Microsoft SQL Server"
+          height="42"
+          width="42"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+      /></code>
+    </td>
+    <!-- <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="MongoDB"
+          title="MongoDB"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/mongodb"
+      /></code>
+    </td> -->
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Oracle Database"
+          title="Oracle Database"
+          height="42"
+          width="42"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+      /></code>
+    </td>
+    <!-- <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="NGINX"
+          title="NGINX"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/nginx/black/white"
+      /></code>
+    </td> -->
+    <td colspan="10"></td>
+  </tr>
+
+  <tr>
+    <td><strong>Other Tools</strong></td>
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Linux"
           title="Linux"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
       /></code>
-      <br /><em>Linux</em>
     </td>
-    <td colspan="4"></td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Azure Dev Ops"
+          title="Azure Dev Ops"
+          height="42"
+          width="42"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Notion"
+          title="Notion"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/notion/black/white"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Godot"
+          title="Godot"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/godotengine"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Postman"
+          title="Postman"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/postman"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Google Apps Script"
+          title="Google Apps Script"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/googleappsscript"
+      /></code>
+    </td>
+    <td colspan="10"></td>
   </tr>
 
   <tr>
     <td><strong>Testing</strong></td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Cypress"
           title="Cypress"
           height="42"
           width="42"
-          src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+          src="https://cdn.simpleicons.org/cypress"
       /></code>
-      <br /><em>Cypress</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Playwright"
+          title="Playwright"
+          height="42"
+          width="42"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Jest"
           title="Jest"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+          src="https://cdn.simpleicons.org/jest"
       /></code>
-      <br /><em>Jest</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Storybook"
           title="Storybook"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"
+          src="https://cdn.simpleicons.org/storybook"
       /></code>
-      <br /><em>Storybook</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Mocha"
           title="Mocha"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"
+          src="https://cdn.simpleicons.org/mocha"
       /></code>
-      <br /><em>Mocha</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Chai"
           title="Chai"
           height="42"
           width="42"
-          src="https://www.chaijs.com/img/chai-logo-small.png"
+          src="https://cdn.simpleicons.org/chai"
       /></code>
-      <br /><em>Chai</em>
     </td>
-    <td align="center" height="100" width="100">
-      <code
-        ><img
-          alt="RSpec"
-          title="RSpec"
-          height="42"
-          width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg"
-      /></code>
-      <br /><em>RSpec</em>
-    </td>
-    <td colspan="1"></td>
+    <td colspan="10"></td>
   </tr>
 
   <tr>
     <td><strong>Visual Design</strong></td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Photoshop"
           title="Photoshop"
           height="42"
           width="42"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"
       /></code>
-      <br /><em>Photoshop</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="After Effects"
@@ -366,9 +550,8 @@
           width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
       /></code>
-      <br /><em>Adobe AE</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Premiere Pro"
@@ -377,9 +560,8 @@
           width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
       /></code>
-      <br /><em>Premiere</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Illustrator"
@@ -388,9 +570,8 @@
           width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
       /></code>
-      <br /><em>Illustrator</em>
     </td>
-    <td align="center" height="100" width="100">
+    <td align="center" height="50" width="50">
       <code
         ><img
           alt="Figma"
@@ -399,17 +580,60 @@
           width="42"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
       /></code>
-      <br /><em>Figma</em>
     </td>
-    <td colspan="2"></td>
+    <td colspan="10"></td>
   </tr>
 
+  <tr>
+    <td><strong>📚 Learning 📚</strong></td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Angular JS"
+          title="Angular JS"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/angular/c4002b"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="Python"
+          title="Python"
+          height="42"
+          width="42"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="MongoDB"
+          title="MongoDB"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/mongodb"
+      /></code>
+    </td>
+    <td align="center" height="50" width="50">
+      <code
+        ><img
+          alt="NGINX"
+          title="NGINX"
+          height="42"
+          width="42"
+          src="https://cdn.simpleicons.org/nginx/black/white"
+      /></code>
+    </td>
+    <td colspan="10"></td>
+  </tr>
 </table>
 
 <br />
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 
 <p align="center">
@@ -430,11 +654,10 @@
     alt="CorgiOnNeptune"
     />
   </a>
+</p> -->
 
-</p>
-
-<br />
-<hr>
+<!-- <br />
+<hr> -->
 
 <h2 align="center">:construction: Current Projects :construction:</h2>
 <br />
