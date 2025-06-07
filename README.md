@@ -41,7 +41,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 <table>
   <tr>
     <td><strong>Languages</strong></td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Javascript"
@@ -51,7 +51,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/javascript"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Typescript"
@@ -61,7 +61,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/typescript"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="C#"
@@ -71,7 +71,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="SQL"
@@ -81,7 +81,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Ruby"
@@ -91,7 +91,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/ruby"
       /></code>
     </td>
-    <!-- <td align="center" height="75" width="75">
+    <!-- <td align="center" height="80" width="80">
       <code
         ><img
           alt="Python"
@@ -106,7 +106,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 
   <tr>
     <td><strong>Frameworks & Libraries</strong></td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Node JS"
@@ -116,7 +116,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="React"
@@ -126,7 +126,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/react"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Next JS"
@@ -136,7 +136,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Electron"
@@ -146,7 +146,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/electron"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="ASP .NET (WebForms)"
@@ -156,7 +156,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/dotnet"
       /></code>
     </td>
-    <!-- <td align="center" height="75" width="75">
+    <!-- <td align="center" height="80" width="80">
       <code
         ><img
           alt="Angular JS"
@@ -166,7 +166,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/angular/c4002b"
       /></code>
     </td> -->
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="KnockoutJS"
@@ -176,7 +176,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knockout/knockout-plain-wordmark.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Express JS"
@@ -186,7 +186,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/express"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Ruby on Rails"
@@ -201,7 +201,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 
   <tr>
     <td><strong>Front-End</strong></td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="HTML"
@@ -211,7 +211,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/html5"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="CSS"
@@ -221,7 +221,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/css"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Tailwind"
@@ -231,7 +231,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/tailwindcss"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="jQuery"
@@ -241,7 +241,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/jquery"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="shadcn/ui"
@@ -251,7 +251,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/shadcnui"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Bootstrap"
@@ -261,7 +261,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/bootstrap"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="PostCSS"
@@ -271,7 +271,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/postcss"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="SCSS Styling"
@@ -281,7 +281,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/sass"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Handlebars.js"
@@ -291,7 +291,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/handlebars.js"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="EJS"
@@ -306,7 +306,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 
   <tr>
     <td><strong>Systems & Databases</strong></td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Git"
@@ -316,7 +316,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/git"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="MySQL"
@@ -326,7 +326,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Redis"
@@ -336,7 +336,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/redis"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Docker"
@@ -346,7 +346,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/docker"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="PostgreSQL"
@@ -356,7 +356,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Microsoft SQL Server"
@@ -366,7 +366,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
       /></code>
     </td>
-    <!-- <td align="center" height="75" width="75">
+    <!-- <td align="center" height="80" width="80">
       <code
         ><img
           alt="MongoDB"
@@ -376,7 +376,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/mongodb"
       /></code>
     </td> -->
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Oracle Database"
@@ -386,7 +386,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
       /></code>
     </td>
-    <!-- <td align="center" height="75" width="75">
+    <!-- <td align="center" height="80" width="80">
       <code
         ><img
           alt="NGINX"
@@ -401,7 +401,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 
   <tr>
     <td><strong>Other Tools</strong></td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Linux"
@@ -411,7 +411,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Azure Dev Ops"
@@ -421,7 +421,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Notion"
@@ -431,7 +431,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/notion/black/white"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Godot"
@@ -441,7 +441,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/godotengine"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Postman"
@@ -451,7 +451,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/postman"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Google Apps Script"
@@ -466,7 +466,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 
   <tr>
     <td><strong>Testing</strong></td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Cypress"
@@ -476,7 +476,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/cypress"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Playwright"
@@ -486,7 +486,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Jest"
@@ -496,7 +496,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/jest"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Storybook"
@@ -506,7 +506,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/storybook"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Mocha"
@@ -516,7 +516,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/mocha"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Chai"
@@ -531,7 +531,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 
   <tr>
     <td><strong>Visual Design</strong></td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Photoshop"
@@ -541,7 +541,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="After Effects"
@@ -551,7 +551,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Premiere Pro"
@@ -561,7 +561,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Illustrator"
@@ -571,7 +571,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Figma"
@@ -586,7 +586,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 
   <tr>
     <td><strong>Learning 📚</strong></td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Angular JS"
@@ -596,7 +596,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/angular/c4002b"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="Python"
@@ -606,7 +606,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="MongoDB"
@@ -616,7 +616,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/mongodb"
       /></code>
     </td>
-    <td align="center" height="75" width="75">
+    <td align="center" height="80" width="80">
       <code
         ><img
           alt="NGINX"
