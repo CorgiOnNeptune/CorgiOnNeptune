@@ -42,64 +42,64 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   <tr>
     <td><strong>Languages</strong></td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code
         ><img
           alt="Javascript"
           title="Javascript"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/javascript"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://www.typescriptlang.org/docs/" target="_blank"><code
         ><img
           alt="Typescript"
           title="Typescript"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/typescript"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><code
         ><img
           alt="C#"
           title="C#"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="#" target="_blank"><code
         ><img
           alt="SQL"
           title="SQL"
           height="50"
           width="50"
           src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"><code
         ><img
           alt="Ruby"
           title="Ruby"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/ruby"
-      /></code>
+      /></code></a>
     </td>
     <!-- <td align="center" height="80" width="80">
-      <code
+      <a href="https://docs.python.org/" target="_blank"><code
         ><img
           alt="Python"
           title="Python"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      /></code>
+      /></code></a>
     </td> -->
     <td colspan="10"></td>
   </tr>
@@ -107,94 +107,94 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   <tr>
     <td><strong>Frameworks & Libraries</strong></td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://nodejs.org/docs/latest/api/" target="_blank"><code
         ><img
           alt="Node JS"
           title="Node JS"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://react.dev/reference/react" target="_blank"><code
         ><img
           alt="React"
           title="React"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/react"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://nextjs.org/docs" target="_blank"><code
         ><img
           alt="Next JS"
           title="Next JS"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://www.electronjs.org/docs/latest/" target="_blank"><code
         ><img
           alt="Electron"
           title="Electron"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/electron"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://learn.microsoft.com/en-us/aspnet/web-forms/" target="_blank"><code
         ><img
           alt="ASP .NET (WebForms)"
           title="ASP .NET (WebForms)"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/dotnet"
-      /></code>
+      /></code></a>
     </td>
     <!-- <td align="center" height="80" width="80">
-      <code
+      <a href="https://angular.dev/overview" target="_blank"><code
         ><img
-          alt="Angular JS"
-          title="Angular JS"
+          alt="Angular"
+          title="Angular"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/angular/c4002b"
-      /></code>
+      /></code></a>
     </td> -->
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://knockoutjs.com/documentation/introduction.html" target="_blank"><code
         ><img
           alt="KnockoutJS"
           title="KnockoutJS"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knockout/knockout-plain-wordmark.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://expressjs.com/en/starter/" target="_blank"><code
         ><img
           alt="Express JS"
           title="Express JS"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/express"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://rubyonrails.org/docs" target="_blank"><code
         ><img
           alt="Ruby on Rails"
           title="Ruby on Rails"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/rubyonrails"
-      /></code>
+      /></code></a>
     </td>
     <td colspan="10"></td>
   </tr>
@@ -202,104 +202,104 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   <tr>
     <td><strong>Front-End</strong></td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="#" target="_blank"><code
         ><img
           alt="HTML"
           title="HTML"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/html5"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="#" target="_blank"><code
         ><img
           alt="CSS"
           title="CSS"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/css"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://tailwindcss.com/docs/installation/" target="_blank"><code
         ><img
           alt="Tailwind"
           title="Tailwind"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/tailwindcss"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://api.jquery.com/" target="_blank"><code
         ><img
           alt="jQuery"
           title="jQuery"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/jquery"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://ui.shadcn.com/docs/installation" target="_blank"><code
         ><img
           alt="shadcn/ui"
           title="shadcn/ui"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/shadcnui"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><code
         ><img
           alt="Bootstrap"
           title="Bootstrap"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/bootstrap"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://postcss.org/docs/" target="_blank"><code
         ><img
           alt="PostCSS"
           title="PostCSS"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/postcss"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://sass-lang.com/documentation/" target="_blank"><code
         ><img
-          alt="SCSS Styling"
-          title="SCSS Styling"
+          alt="SCSS Styling (Sass)"
+          title="SCSS Styling (Sass)"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/sass"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://handlebarsjs.com/guide/" target="_blank"><code
         ><img
           alt="Handlebars.js"
           title="Handlebars.js"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/handlebars.js"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://ejs.co/#docs" target="_blank"><code
         ><img
           alt="EJS"
           title="EJS"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/ejs"
-      /></code>
+      /></code></a>
     </td>
     <!-- <td colspan="10"></td> -->
   </tr>
@@ -307,94 +307,94 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   <tr>
     <td><strong>Systems & Databases</strong></td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://git-scm.com/doc" target="_blank"><code
         ><img
           alt="Git"
           title="Git"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/git"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://dev.mysql.com/doc/" target="_blank"><code
         ><img
           alt="MySQL"
           title="MySQL"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://redis.io/docs/latest/" target="_blank"><code
         ><img
           alt="Redis"
           title="Redis"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/redis"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://docs.docker.com/" target="_blank"><code
         ><img
           alt="Docker"
           title="Docker"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/docker"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://www.postgresql.org/docs/" target="_blank"><code
         ><img
           alt="PostgreSQL"
           title="PostgreSQL"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://www.microsoft.com/en-ca/sql-server" target="_blank"><code
         ><img
           alt="Microsoft SQL Server"
           title="Microsoft SQL Server"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <!-- <td align="center" height="80" width="80">
-      <code
+      <a href="https://www.mongodb.com/docs/manual/" target="_blank"><code
         ><img
           alt="MongoDB"
           title="MongoDB"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/mongodb"
-      /></code>
+      /></code></a>
     </td> -->
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://docs.oracle.com/en/database/oracle/oracle-database/" target="_blank"><code
         ><img
           alt="Oracle Database"
           title="Oracle Database"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <!-- <td align="center" height="80" width="80">
-      <code
+      <a href="https://nginx.org/en/docs/" target="_blank"><code
         ><img
           alt="NGINX"
           title="NGINX"
           height="50"
           width="50"
-          src="https://cdn.simpleicons.org/nginx/black/white"
-      /></code>
+          src="https://cdn.simpleicons.org/nginx/"
+      /></code></a>
     </td> -->
     <td colspan="10"></td>
   </tr>
@@ -402,64 +402,84 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   <tr>
     <td><strong>Other Tools</strong></td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="#" target="_blank"><code
         ><img
           alt="Linux"
           title="Linux"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://code.visualstudio.com/docs" target="_blank"><code
+        ><img
+          alt="Visual Studio Code"
+          title="Visual Studio Code"
+          height="50"
+          width="50"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+      /></code></a>
+    </td>
+    <td align="center" height="80" width="80">
+      <a href="https://azure.microsoft.com/en-us/products/devops#Overview-2" target="_blank"><code
         ><img
           alt="Azure Dev Ops"
           title="Azure Dev Ops"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
-        ><img
-          alt="Notion"
-          title="Notion"
-          height="50"
-          width="50"
-          src="https://cdn.simpleicons.org/notion/black/white"
-      /></code>
-    </td>
-    <td align="center" height="80" width="80">
-      <code
-        ><img
-          alt="Godot"
-          title="Godot"
-          height="50"
-          width="50"
-          src="https://cdn.simpleicons.org/godotengine"
-      /></code>
-    </td>
-    <td align="center" height="80" width="80">
-      <code
+      <a href="https://www.postman.com/product/what-is-postman/" target="_blank"><code
         ><img
           alt="Postman"
           title="Postman"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/postman"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://www.notion.com/product/docs" target="_blank"><code
+        ><img
+          alt="Notion"
+          title="Notion"
+          height="50"
+          width="50"
+          src="https://cdn.simpleicons.org/notion/black/white"
+      /></code></a>
+    </td>
+    <td align="center" height="80" width="80">
+      <a href="https://docs.godotengine.org/en/stable/" target="_blank"><code
+        ><img
+          alt="Godot"
+          title="Godot"
+          height="50"
+          width="50"
+          src="https://cdn.simpleicons.org/godotengine"
+      /></code></a>
+    </td>
+    <td align="center" height="80" width="80">
+      <a href="https://learn.microsoft.com/en-gb/visualstudio/?view=vs-2022" target="_blank"><code
+        ><img
+          alt="Visual Studio"
+          title="Visual Studio"
+          height="50"
+          width="50"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
+      /></code></a>
+    </td>
+    <td align="center" height="80" width="80">
+      <a href="https://developers.google.com/apps-script" target="_blank"><code
         ><img
           alt="Google Apps Script"
           title="Google Apps Script"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/googleappsscript"
-      /></code>
+      /></code></a>
     </td>
     <td colspan="10"></td>
   </tr>
@@ -467,64 +487,64 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   <tr>
     <td><strong>Testing</strong></td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://docs.cypress.io/" target="_blank"><code
         ><img
           alt="Cypress"
           title="Cypress"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/cypress"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://playwright.dev/docs/intro" target="_blank"><code
         ><img
           alt="Playwright"
           title="Playwright"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://jestjs.io/docs/getting-started" target="_blank"><code
         ><img
           alt="Jest"
           title="Jest"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/jest"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://storybook.js.org/docs" target="_blank"><code
         ><img
           alt="Storybook"
           title="Storybook"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/storybook"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://mochajs.org/#table-of-contents" target="_blank"><code
         ><img
           alt="Mocha"
           title="Mocha"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/mocha"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://www.chaijs.com/guide/" target="_blank"><code
         ><img
           alt="Chai"
           title="Chai"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/chai"
-      /></code>
+      /></code></a>
     </td>
     <td colspan="10"></td>
   </tr>
@@ -532,54 +552,54 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   <tr>
     <td><strong>Visual Design</strong></td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://helpx.adobe.com/ca/photoshop/user-guide.html" target="_blank"><code
         ><img
           alt="Photoshop"
           title="Photoshop"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://helpx.adobe.com/ca/after-effects/user-guide.html" target="_blank"><code
         ><img
           alt="After Effects"
           title="After Effects"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://helpx.adobe.com/ca/premiere-pro/user-guide.html" target="_blank"><code
         ><img
           alt="Premiere Pro"
           title="Premiere Pro"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://helpx.adobe.com/ca/illustrator/user-guide.html" target="_blank"><code
         ><img
           alt="Illustrator"
           title="Illustrator"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://help.figma.com/hc/en-us/categories/360002042553" target="_blank"><code
         ><img
           alt="Figma"
           title="Figma"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-      /></code>
+      /></code></a>
     </td>
     <td colspan="10"></td>
   </tr>
@@ -587,44 +607,44 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   <tr>
     <td><strong>Learning 📚</strong></td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://angular.dev/overview" target="_blank"><code
         ><img
-          alt="Angular JS"
-          title="Angular JS"
+          alt="Angular"
+          title="Angular"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/angular/c4002b"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://docs.python.org/" target="_blank"><code
         ><img
           alt="Python"
           title="Python"
           height="50"
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      /></code>
+      /></code></a></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://www.mongodb.com/docs/manual/" target="_blank"><code
         ><img
           alt="MongoDB"
           title="MongoDB"
           height="50"
           width="50"
           src="https://cdn.simpleicons.org/mongodb"
-      /></code>
+      /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <code
+      <a href="https://nginx.org/en/docs/" target="_blank"><code
         ><img
           alt="NGINX"
           title="NGINX"
           height="50"
           width="50"
-          src="https://cdn.simpleicons.org/nginx/black/white"
-      /></code>
+          src="https://cdn.simpleicons.org/nginx"
+      /></code></a>
     </td>
     <td colspan="10"></td>
   </tr>
