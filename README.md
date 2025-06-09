@@ -72,7 +72,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
       /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <a href="#" target="_blank"><code
+      <a href="#desktop_computer-tech--tools-experience-desktop_computer"><code
         ><img
           alt="SQL"
           title="SQL"
@@ -202,7 +202,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   <tr>
     <td><strong>Front-End</strong></td>
     <td align="center" height="80" width="80">
-      <a href="#" target="_blank"><code
+      <a href="#desktop_computer-tech--tools-experience-desktop_computer"><code
         ><img
           alt="HTML"
           title="HTML"
@@ -212,7 +212,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
       /></code></a>
     </td>
     <td align="center" height="80" width="80">
-      <a href="#" target="_blank"><code
+      <a href="#desktop_computer-tech--tools-experience-desktop_computer"><code
         ><img
           alt="CSS"
           title="CSS"
@@ -402,7 +402,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   <tr>
     <td><strong>Other Tools</strong></td>
     <td align="center" height="80" width="80">
-      <a href="#" target="_blank"><code
+      <a href="#desktop_computer-tech--tools-experience-desktop_computer"><code
         ><img
           alt="Linux"
           title="Linux"
