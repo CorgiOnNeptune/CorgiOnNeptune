@@ -9,10 +9,10 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 
 - :eyes: I’m interested in &nbsp; &nbsp; &nbsp; &nbsp; ... Music, Guitar, Video Games & Esports
 - :brain: I’m currently learning and experimenting with...
-  - <i>Angular</i>
   - <i>Docker</i>
+  - <i>Wordpress</i>
   - <i>NGINX</i>
-  - <i>Python</i>
+  - <i>Kubernetes</i>
 - :arrow_down: How to reach me :arrow_down:
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp;
