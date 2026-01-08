@@ -626,7 +626,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
       /></code></a></a>
     </td>
-    <td align="center" height="80" width="80">
+    <!-- <td align="center" height="80" width="80">
       <a href="https://www.mongodb.com/docs/manual/" target="_blank"><code
         ><img
           alt="MongoDB"
@@ -635,8 +635,8 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           width="50"
           src="https://cdn.simpleicons.org/mongodb"
       /></code></a>
-    </td>
-    <td align="center" height="80" width="80">
+    </td> -->
+    <!-- <td align="center" height="80" width="80">
       <a href="https://nginx.org/en/docs/" target="_blank"><code
         ><img
           alt="NGINX"
@@ -645,7 +645,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           width="50"
           src="https://cdn.simpleicons.org/nginx"
       /></code></a>
-    </td>
+    </td> -->
     <td colspan="10"></td>
   </tr>
 </table>
