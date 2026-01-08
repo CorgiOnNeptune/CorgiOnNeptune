@@ -700,7 +700,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
   </a>
 </p> -->
 
-<hr>
+<!-- <hr> -->
 
 <!-- <p align="center">
   <img
