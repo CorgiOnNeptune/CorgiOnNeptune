@@ -1,18 +1,18 @@
 <h1 align="center">Justin Bennett</h1>
-<h2 align="center">Full-Stack Developer</h2>
+<h2 align="center">Full-Stack Web Developer</h2>
 
 <br />
-Hi! My name is Justin, I am a full-stack developer with a focus in web development, but some experience in broader software development such as creating Windows services and native Electron apps. I'm continually expanding my skillset and am most engaged when I get to learn new things and grow my knowledge base. My professional experience includes helping develop custom solutions for clients in the Oil & Gas industry as well as in-house software solutions for company management and accounting.
+Hi! My name is Justin, I am a Full-Stack Developer with a focus in web development, but some experience in broader software development such as creating Windows services and native Electron apps. I'm continually expanding my skillset and am most engaged when I get to learn new things and grow my knowledge base. My professional experience includes development of custom solutions for clients in the Oil & Gas industry as well as internal software solutions for company management and accounting.
 
 I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly seeking to learn new things.
-<br />
 
-- :eyes: I’m interested in &nbsp; &nbsp; &nbsp; &nbsp; ... Music, Guitar, Video Games & Esports
-- :brain: I’m currently learning and experimenting with...
+
+- ⚒ Open to work!
+- 🎶 I’m interested in &nbsp; &nbsp; &nbsp; &nbsp; ... Music, Movies, Video Games & Esports
+- 🧠 I’m currently learning and experimenting with...
+  - <i>Astro.js</i>
   - <i>Docker</i>
-  - <i>Wordpress</i>
-  - <i>NGINX</i>
-  - <i>Kubernetes</i>
+  - <i>...</i>
 - :arrow_down: How to reach me :arrow_down:
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp;
@@ -41,7 +41,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 <table>
   <tr>
     <td><strong>Languages</strong></td>
-    <td align="center" height="80" width="80">
+    <td align="center" height="80" width="85">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code
         ><img
           alt="Javascript"
@@ -91,7 +91,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           src="https://cdn.simpleicons.org/ruby"
       /></code></a>
     </td>
-    <!-- <td align="center" height="80" width="80">
+    <td align="center" height="80" width="80">
       <a href="https://docs.python.org/" target="_blank"><code
         ><img
           alt="Python"
@@ -100,7 +100,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
           width="50"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
       /></code></a>
-    </td> -->
+    </td>
     <td colspan="10"></td>
   </tr>
 
@@ -679,7 +679,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
 <!-- <br />
 <hr> -->
 
-<h2 align="center">Projects</h2>
+<!-- <h2 align="center">Projects</h2>
 <br />
 
 <p align="center">
@@ -698,7 +698,7 @@ I am most comfortable with Typescript, React, and C# w/ ASP.NET, but constantly 
       src="https://github-readme-stats.vercel.app/api/pin/?username=CorgiOnNeptune&repo=neptune&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
     />
   </a>
-</p>
+</p> -->
 
 <hr>
 
